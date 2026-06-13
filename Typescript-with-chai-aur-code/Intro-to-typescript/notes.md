@@ -40,16 +40,6 @@ greet(true);    // ❌ Error
 
 ---
 
-## When to Learn TypeScript?
-
-Learn TypeScript after JavaScript.
-
-Recommended Order:
-
-JavaScript → TypeScript → React/Next.js
-
----
-
 ## Relationship Between JavaScript and TypeScript
 
 TypeScript is a superset of JavaScript.
